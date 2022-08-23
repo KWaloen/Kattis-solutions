@@ -1,0 +1,7 @@
+N = int(input())
+start = 0
+while N > 0:
+    start = start + 1
+    print(str(start) + " " + "Abracadabra")
+    N = N - 1
+
